@@ -1,0 +1,2 @@
+rootProject.name = "eseAndroid5A"
+include ':app'
